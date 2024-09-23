@@ -1,4 +1,4 @@
-# VisionVoice: Multi-Modal Interaction System
+# Voice-Controlled Personal Assistance
 
 A Python-based voice assistant that recognizes and responds to voice commands.
 
